@@ -7,7 +7,7 @@ const app = Vue.createApp({
     }
 }).mount('#app')
 
-
+/* de las siguientes maneras es como se hace pero para las versiones menores a 3 */
 /* const app = new Vue({
     data(){
         return {
