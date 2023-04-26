@@ -1,0 +1,7 @@
+
+Nota: ES IMPORTANTE RESALTAR QUE SE DEBE TENER NODE Y NPM INTSLADOS PARA PODER HACER LA INSTALACION
+
+intalacion de Vue en Ubuntu:
+
+npm install -g @vue/cli
+
